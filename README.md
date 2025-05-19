@@ -110,12 +110,10 @@ Hi! My name is **Helena Maia**. I'm a result-oriented **Full-Stack Web Developer
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=DevHelena&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHelena&theme=tokyonight&layout=compact&custom_title=Tools&langs_count=9" 
   />
-
 </p>
